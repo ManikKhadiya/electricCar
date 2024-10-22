@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1, U6",2," Arduino Uno R3"
+"SERVO1",1,"Positional Micro Servo"
+"U2",1," H-bridge Motor Driver"
+"M1, M2",2," Hobby Gearmotor"
+"R1",1,"220 Ω Resistor"
+"DUSsensorON/OFF",1,"Red LED"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"PIR1",1,"-10.921614525296674 , -162.84993099135917 , -244.4820179594577  PIR Sensor"
+"U3, U7",2," LCD 16 x 2"
+"Rpot2",1,"250 kΩ Potentiometer"
+"R3",1,"220 Ω Resistor"
